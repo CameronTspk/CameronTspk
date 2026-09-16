@@ -41,7 +41,7 @@ Unmanned aircraft, unconventional propulsion architectures, VTOL systems, aircra
 
 # 🚀 Featured Engineering Projects
 
-## Twin Rim-Driven Propulsor UAV Control System
+## [Twin Rim-Driven Propulsor UAV Control System](https://github.com/CameronTspk/Rim_Driven_UAV.git)
 
 **Aerospace Controls & Vehicle Systems**
 
@@ -64,8 +64,6 @@ The project investigates whether differential thrust and multi-axis thrust vecto
 ### Engineering Areas
 
 `Flight Controls` `MATLAB` `Simulink` `6-DOF Dynamics` `Control Allocation` `UAVs` `Propulsion` `Systems Engineering`
-
-**Repository:** [View Project](https://github.com/CameronTspk/Rim-Driven-UAV)
 
 ---
 
