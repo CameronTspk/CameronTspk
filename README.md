@@ -65,7 +65,7 @@ The project investigates whether differential thrust and multi-axis thrust vecto
 
 `Flight Controls` `MATLAB` `Simulink` `6-DOF Dynamics` `Control Allocation` `UAVs` `Propulsion` `Systems Engineering`
 
-**Repository:** [ADD PROJECT LINK]
+**Repository:** [View Project](https://github.com/CameronTspk/Rim-Driven-UAV)
 
 ---
 
