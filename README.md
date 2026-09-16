@@ -111,8 +111,6 @@ These projects focus on turning aerospace equations into reusable computational 
 ### Technologies
 
 `MATLAB` `Aerodynamics` `Aircraft Performance` `Data Visualization` `Numerical Analysis`
-
-**Repository:** [ADD PROJECT LINK]
 ---
 # 🔬 Current Senior Design Focus
 
