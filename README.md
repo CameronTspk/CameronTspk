@@ -196,7 +196,7 @@ Aerospace Engineering
 
 **LinkedIn:** [linkedin.com/in/cameron-thomas-slo](https://www.linkedin.com/in/cameron-thomas-slo/)  
 **Email:** [cthomas3051@gmail.com](mailto:cthomas3051@gmail.com)  
-**Resume:** [View Resume](ADD_RESUME_LINK)
+**Resume:** [View Resume](https://drive.google.com/file/d/1t4WbnC12vksw6B6GQmdgiq_c86XNHXrv/view?usp=sharing)
 
 ---
 
