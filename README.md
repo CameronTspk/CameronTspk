@@ -85,8 +85,6 @@ The project uses a software-in-the-loop architecture to connect vehicle dynamics
 
 `PX4` `Gazebo` `ROS 2` `Python` `C/C++` `Flight Controls` `Simulation`
 
-**Repository:** [ADD PROJECT LINK]
-
 ---
 
 ## [Aircraft Performance & Aerodynamic Analysis](https://github.com/CameronTspk/Aircraft-Performance-Aerodynamic-Analysis.git)
