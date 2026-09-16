@@ -89,7 +89,7 @@ The project uses a software-in-the-loop architecture to connect vehicle dynamics
 
 ---
 
-## Aircraft Performance & Aerodynamic Analysis
+## [Aircraft Performance & Aerodynamic Analysis](https://github.com/CameronTspk/Aircraft-Performance-Aerodynamic-Analysis.git)
 
 MATLAB-based aircraft performance studies examining the relationship between vehicle design parameters and mission performance.
 
